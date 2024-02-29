@@ -1,0 +1,9 @@
+{
+	"name": "ADF-ramya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "705f0c17-9b2c-48ab-9a72-8d774959fe06",
+		"tenantId": "2e74b898-298f-4de4-978d-2ad7f6ec6c2b"
+	}
+}
